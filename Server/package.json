@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "a server for my first MERN stack social media app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "mongoose": "",
+    "cors": "",
+    "body-parser": "",
+    "nodemon": "",
+    "express": "",
+    "dotenv": ""
+  },
+  "author": "Dozerex",
+  "license": "MIT"
+}
